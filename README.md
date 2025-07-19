@@ -4,7 +4,7 @@
 
 **Platform**: Postman Academy  
 **Completed**: [18-07-2025]  
-**Certificate**: [View Certificate](https://drive.google.com/file/d/1ZgotN3sczR07G359XjgQdGb6P8nYTkEQ/view?usp=drive_link)
+**Certificate**: [View Certificate](http://verify.skilljar.com/c/n57wjubircm9)
 
 ### ✅ What I Learned:
 - Creating and testing **GET, POST, PATCH, DELETE** requests
@@ -16,6 +16,7 @@
 - Real-time API testing and completing task-based challenges
 
 ---
-![Certificate](postman_learner.png) <!-- Optional: Show image -->
 
+![Certificate](Postman - Postman API Fundamentals Student Expert - 2025-07-18 (1).png
+) <!-- Optional: Show image -->
 ![Certificate](postman_learner.png) <!-- Optional: Show image -->
